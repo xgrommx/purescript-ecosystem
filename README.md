@@ -4,12 +4,12 @@ What are the most popular libraries in the Purescript ecosystem?
 
 | Name     | Description       | Stars |
 | -------- | ----------------- | ------|
-| [purescript/purescript](https://github.com/purescript/purescript) | A small strongly typed language that compiles to Javascript | 2007 |
+| [purescript/purescript](https://github.com/purescript/purescript) | A small strongly typed language that compiles to Javascript | 2008 |
 | [slamdata/purescript-halogen](https://github.com/slamdata/purescript-halogen) | A declarative, type-safe UI library for PureScript. | 251 |
-| [bodil/pulp](https://github.com/bodil/pulp) | A build system and package manager for PureScript projects | 177 |
+| [bodil/pulp](https://github.com/bodil/pulp) | A build system and package manager for PureScript projects | 178 |
 | [purescript-contrib/purescript-react](https://github.com/purescript-contrib/purescript-react) | React Bindings for PureScript | 143 |
 | [bodil/purescript-signal](https://github.com/bodil/purescript-signal) | Elm style FRP library for PureScript | 115 |
-| [paf31/purescript-book](https://github.com/paf31/purescript-book) | Sources for the PureScript book | 102 |
+| [paf31/purescript-book](https://github.com/paf31/purescript-book) | Sources for the PureScript book | 103 |
 | [paf31/purescript-thermite](https://github.com/paf31/purescript-thermite) | A simple PureScript wrapper for React | 98 |
 | [zrho/purescript-optic-ui](https://github.com/zrho/purescript-optic-ui) | PureScript UI framework based on lenses. | 55 |
 | [bodil/purescript-is-magic](https://github.com/bodil/purescript-is-magic) | An educational game with ponies | 55 |
@@ -18,12 +18,12 @@ What are the most popular libraries in the Purescript ecosystem?
 | [slamdata/purescript-aff](https://github.com/slamdata/purescript-aff) | An asynchronous effect monad for PureScript | 45 |
 | [dancingrobot84/purescript-express](https://github.com/dancingrobot84/purescript-express) | Purescript wrapper for Express.js | 39 |
 | [purescript/purescript-in-purescript](https://github.com/purescript/purescript-in-purescript) | PureScript compiler written in PureScript (On hold / inactive) | 37 |
+| [waterson/purescript-asteroids](https://github.com/waterson/purescript-asteroids) | Asteroids for a web browser, in PureScript | 33 |
 | [aktowns/purescript-simple-dom](https://github.com/aktowns/purescript-simple-dom) |  | 33 |
-| [waterson/purescript-asteroids](https://github.com/waterson/purescript-asteroids) | Asteroids for a web browser, in PureScript | 32 |
 | [pelotom/purescript-d3](https://github.com/pelotom/purescript-d3) | PureScript bindings for D3 | 31 |
 | [michaelficarra/purescript-demo-mario](https://github.com/michaelficarra/purescript-demo-mario) | :turtle: implementation of Elm's Mario demo in PureScript | 31 |
 | [purescript-contrib/purescript-lens](https://github.com/purescript-contrib/purescript-lens) | PureScript implementation of lens | 30 |
-| [purescript/pursuit](https://github.com/purescript/pursuit) | Search engine for PureScript functions | 26 |
+| [purescript/pursuit](https://github.com/purescript/pursuit) | Search engine for PureScript functions | 27 |
 | [kRITZCREEK/FROST-Frontend](https://github.com/kRITZCREEK/FROST-Frontend) | Reactive Programming with PureScript and React | 25 |
 | [garyb/purescript-virtual-dom](https://github.com/garyb/purescript-virtual-dom) | Low level virtual-dom bindings for PureScript | 25 |
 | [bodil/purescript-smolder](https://github.com/bodil/purescript-smolder) | A combinator library for generating markup | 24 |
@@ -116,12 +116,12 @@ What are the most popular libraries in the Purescript ecosystem?
 | [purescript-contrib/purescript-dom](https://github.com/purescript-contrib/purescript-dom) | Type definitions and standard effect for interacting with the DOM | 5 |
 | [fujimura/purescript-react-example](https://github.com/fujimura/purescript-react-example) | PureScript + React.js example, based on https://github.com/purescript-contrib/purescript-react. | 5 |
 | [ruicc/purescript-vue](https://github.com/ruicc/purescript-vue) | A Vue.js binding for purescript. | 5 |
-| [anthoq88/purescript-three](https://github.com/anthoq88/purescript-three) | Purescript bindings for Threejs | 5 |
+| [purescript/purescript-graphs](https://github.com/purescript/purescript-graphs) | Purely functional graph data structure | 5 |
 | [algas/purescript-enchantjs](https://github.com/algas/purescript-enchantjs) | PureScript interface for Enchant.js | 5 |
 | [purescript-node/purescript-node-readline](https://github.com/purescript-node/purescript-node-readline) |  | 5 |
 | [bodil/purescript-chrome-api](https://github.com/bodil/purescript-chrome-api) | PureScript bindings for the Chrome Platform APIs | 5 |
 | [functorial/stack-safety-for-free](https://github.com/functorial/stack-safety-for-free) | A note on the approach to stack-safety in PureScript's core libraries | 5 |
-| [purescript/purescript-graphs](https://github.com/purescript/purescript-graphs) | Purely functional graph data structure | 5 |
+| [anthoq88/purescript-three](https://github.com/anthoq88/purescript-three) | Purescript bindings for Threejs | 5 |
 | [purescript/purescript-parallel](https://github.com/purescript/purescript-parallel) | An applicative functor for parallel composition of asynchronous computations | 5 |
 | [soupi/purescript-slides](https://github.com/soupi/purescript-slides) | A tiny EDSL for making slides in PureScript | 5 |
 | [slamdata/purescript-jtable](https://github.com/slamdata/purescript-jtable) | A Purescript table renderer capable of displaying multidimensional, heterogeneous JSON data | 5 |
