@@ -74,8 +74,8 @@ What are the most popular libraries in the Purescript ecosystem?
 | 68 | [michaelficarra/purescript-spidermonkey-ast](https://github.com/michaelficarra/purescript-spidermonkey-ast) | :monkey: PureScript bindings for Mozilla's SpiderMonkey AST format | 10 |
 | 69 | [slamdata/purescript-routing](https://github.com/slamdata/purescript-routing) | A clean, type-safe routing library for PureScript. | 10 |
 | 70 | [mechairoi/purescript-frp-rabbit](https://github.com/mechairoi/purescript-frp-rabbit) | purescript-frp-rabbit | 10 |
-| 71 | [philopon/purescript-json](https://github.com/philopon/purescript-json) | JSON parsing library like aeson for purescript. | 10 |
-| 72 | [purescript-contrib/grunt-init-purescript](https://github.com/purescript-contrib/grunt-init-purescript) |  | 10 |
+| 71 | [purescript-contrib/grunt-init-purescript](https://github.com/purescript-contrib/grunt-init-purescript) |  | 10 |
+| 72 | [philopon/purescript-json](https://github.com/philopon/purescript-json) | JSON parsing library like aeson for purescript. | 10 |
 | 73 | [paf31/purescript-preface](https://github.com/paf31/purescript-preface) | An alternative to the Prelude for teaching purposes | 10 |
 | 74 | [paf31/purescript-debugger](https://github.com/paf31/purescript-debugger) | A simple console debugger for PureScript functions | 10 |
 | 75 | [EugeneN/pureGoL](https://github.com/EugeneN/pureGoL) | A Game of Life written in Purescript using Rx and React/canvas/console UIs. | 9 |
@@ -90,12 +90,12 @@ What are the most popular libraries in the Purescript ecosystem?
 | 84 | [purescript/purescript-control](https://github.com/purescript/purescript-control) | Common control classes and utility functions | 8 |
 | 85 | [philopon/haskell-purescript-binding](https://github.com/philopon/haskell-purescript-binding) | [WIP] generate purescript code from haskell code. | 8 |
 | 86 | [waterson/purescript-webaudio](https://github.com/waterson/purescript-webaudio) | A PureScript wrapper around the HTML5 Web Audio API | 8 |
-| 87 | [joneshf/sublime-purescript](https://github.com/joneshf/sublime-purescript) | null | 8 |
+| 87 | [joneshf/sublime-purescript](https://github.com/joneshf/sublime-purescript) |  | 8 |
 | 88 | [paf31/purescript-drawing](https://github.com/paf31/purescript-drawing) |  | 8 |
 | 89 | [purescript/purescript-tuples](https://github.com/purescript/purescript-tuples) | Tuple data type and utility functions | 7 |
 | 90 | [paf31/purescript-free-canvas](https://github.com/paf31/purescript-free-canvas) | A free monad interface to the canvas | 7 |
 | 91 | [purescript/trypurescript](https://github.com/purescript/trypurescript) | PureScript in the browser | 7 |
-| 92 | [joneshf/purescript-optic](https://github.com/joneshf/purescript-optic) | null | 7 |
+| 92 | [joneshf/purescript-optic](https://github.com/joneshf/purescript-optic) |  | 7 |
 | 93 | [zudov/purescript-cycle](https://github.com/zudov/purescript-cycle) | Purescript bindings for Cycle.js | 7 |
 | 94 | [purescript-node/purescript-node-http](https://github.com/purescript-node/purescript-node-http) | A wrapper for Node's HTTP APIs | 7 |
 | 95 | [CapillarySoftware/presentable](https://github.com/CapillarySoftware/presentable) | A minimal PureScript rendering agnostic UI framework | 7 |
@@ -113,7 +113,7 @@ What are the most popular libraries in the Purescript ecosystem?
 | 107 | [osa1/psc-lua](https://github.com/osa1/psc-lua) | Lua backend for PureScript | 6 |
 | 108 | [adinapoli/snaplet-purescript](https://github.com/adinapoli/snaplet-purescript) | Automatic (re)compilation of Purescript code | 6 |
 | 109 | [hdgarrood/purescript-benchotron](https://github.com/hdgarrood/purescript-benchotron) | Straightforward benchmarking for PureScript/JavaScript. | 6 |
-| 110 | [joneshf/purescript-lens-examples](https://github.com/joneshf/purescript-lens-examples) | null | 6 |
+| 110 | [joneshf/purescript-lens-examples](https://github.com/joneshf/purescript-lens-examples) |  | 6 |
 | 111 | [ethul/purescript-freeap](https://github.com/ethul/purescript-freeap) |  | 6 |
 | 112 | [purescript/purescript-arrows](https://github.com/purescript/purescript-arrows) | Type classes for Arrows. | 6 |
 | 113 | [anthoq88/purescript-three](https://github.com/anthoq88/purescript-three) | Purescript bindings for Threejs | 6 |
@@ -128,7 +128,7 @@ What are the most popular libraries in the Purescript ecosystem?
 | 122 | [purescript/purescript-parallel](https://github.com/purescript/purescript-parallel) | An applicative functor for parallel composition of asynchronous computations | 5 |
 | 123 | [soupi/purescript-slides](https://github.com/soupi/purescript-slides) | A tiny EDSL for making slides in PureScript | 5 |
 | 124 | [fujimura/purescript-react-example](https://github.com/fujimura/purescript-react-example) | PureScript + React.js example, based on https://github.com/purescript-contrib/purescript-react. | 5 |
-| 125 | [joneshf/purescript-node-webkit](https://github.com/joneshf/purescript-node-webkit) | null | 5 |
+| 125 | [joneshf/purescript-node-webkit](https://github.com/joneshf/purescript-node-webkit) |  | 5 |
 | 126 | [paf31/purescript-foreign-lens](https://github.com/paf31/purescript-foreign-lens) | A lens-compatible set of getters for purescript-foreign | 5 |
 | 127 | [algas/purescript-enchantjs](https://github.com/algas/purescript-enchantjs) | PureScript interface for Enchant.js | 5 |
 | 128 | [sharkdp/purescript-bigints](https://github.com/sharkdp/purescript-bigints) | Arbitrary length integers for Purescript | 5 |
